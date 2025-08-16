@@ -91,6 +91,43 @@ Before building anything, ask yourself:
 - Visually impressive or surprising
 - Solves a real problem (doesn't have to be daily life)
 
+## Common Mistakes (Learn from My Pain)
+
+**Building for "everyone"** - If your target user is "anyone who uses a computer," you're screwed. Get specific.
+
+**Solving problems you don't have** - Building a dog-walking app when you don't have a dog is a recipe for failure.
+
+**Feature creep before launch** - "Just one more feature" has killed more projects than bad ideas. Ship the smallest thing first.
+
+**Ignoring the boring stuff** - Authentication, payments, hosting. The cool part is 20% of the work.
+
+**Building in isolation** - Spending 6 months coding without talking to anyone, then wondering why nobody uses it.
+
+## Quick Evaluation Scorecard
+
+Rate your idea 1-5 on each:
+- Personal excitement level
+- Technical feasibility 
+- Market need (real, not imagined)
+- Your ability to reach users
+- Competitive advantage
+
+If you score below 15 total, probably skip it.
+
+## When to Kill an Idea
+
+**Kill it if:**
+- You've been working on it for months but can't explain it simply
+- You keep adding features instead of getting users
+- You're the only person excited about it
+- The problem was harder than you thought and you've lost interest
+- You built it but don't use it yourself
+
+**Don't kill it because:**
+- Someone else is doing something similar (execution matters more)
+- It's "been done before" (usually it hasn't been done well)
+- Your friends don't get it (they might not be your users)
+
 ## Final Reality Check
 
 If you're trying to squeeze an idea out of your brain, stop. The best ideas come when you're not looking for them. Keep a notes app open and write down random thoughts. The projects that stick in your head for weeks are usually worth building.
