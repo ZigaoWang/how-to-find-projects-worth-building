@@ -91,7 +91,7 @@ Before building anything, ask yourself:
 - Visually impressive or surprising
 - Solves a real problem (doesn't have to be daily life)
 
-## Common Mistakes (Learn from My Pain)
+## Common Mistakes
 
 **Building for "everyone"** - If your target user is "anyone who uses a computer," you're screwed. Get specific.
 
