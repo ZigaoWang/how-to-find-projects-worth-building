@@ -2,9 +2,24 @@
 
 *By Zigao Wang • August 16, 2025*
 
+*Note: I'm just a programmer sharing what I've researched and learned from experience. This isn't 100% right, but it's what's worked for me.*
+
 ## The Real Talk
 
 I've been through this loop too many times: ask AI for project ideas, get garbage like "smart toothbrush" or "weather app with dancing man." Here's what I've learned actually works for finding ideas worth building.
+
+## For Problem-Solving Projects: Break Down the Problem
+
+If you're building something to solve a real problem, don't just jump into coding. Use this rough process (borrowed from design thinking):
+
+1. **Understand the User** - Who actually has this problem? Talk to them, not just yourself
+2. **Define the Real Problem** - What's the core issue? Not what you think it is, but what it actually is
+3. **Research Existing Solutions** - What's already out there? Why do they suck?
+4. **Ideate Solutions** - Now brainstorm your approach
+5. **Prototype Small** - Build the smallest thing that tests your idea
+6. **Test with Real Users** - See if it actually solves their problem
+
+This isn't just theory - even as a programmer, understanding the problem properly saves you from building the wrong thing.
 
 ## Two Types of Good Ideas
 
